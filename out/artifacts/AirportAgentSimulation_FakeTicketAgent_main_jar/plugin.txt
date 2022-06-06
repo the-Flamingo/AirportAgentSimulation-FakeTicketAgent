@@ -1,0 +1,4 @@
+id          = FakeTicketAgent
+name        = FakeTicketAgent
+authors     = Florian Petit, Jonas Hofmann
+entrypoint  = FakeTicketAgentPlugin
